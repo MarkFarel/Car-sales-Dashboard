@@ -15,15 +15,15 @@ The data model for the Car Sales Dashboard integrates several tables to enable v
 
 1. **Sales Table**
 
-- Sale_ID: Unique identifier for each sale.
-- Car_Model: Model of the car sold.
-- Body_Style: The body style (e.g., sedan, SUV) of the car.
-- Color: Color of the car sold.
-- Sale_Date: Date when the sale was completed.
-- Sale_Amount: Total amount for each sale.
-- Dealer_Region: Region where the sale occurred.
-- Company: Company associated with the sale.
-- Quantity: Number of units sold in each sale.
+- ```Sale_ID```: Unique identifier for each sale.
+- ```Car_Model```: Model of the car sold.
+- ```Body_Style```: The body style (e.g., sedan, SUV) of the car.
+- ```Color```: Color of the car sold.
+- ```Sale_Date```: Date when the sale was completed.
+- ```Sale_Amount```: Total amount for each sale.
+- ```Dealer_Region```: Region where the sale occurred.
+- ```Company```: Company associated with the sale.
+- ```Quantity```: Number of units sold in each sale.
 
 2. **Date Table (Calendar Table)**
 

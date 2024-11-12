@@ -8,7 +8,7 @@ monitor sales progress, and uncover growth opportunities.
 
 <img width="606" alt="car sales overview page" src="https://github.com/user-attachments/assets/23637a29-0726-45cf-9739-5785ca966550">
 
-### Objective![Uploading car sales overview page.PNG…]()
+### Objective
 
 
 The objective of the Car Sales Dashboard project is to deliver a comprehensive, user-friendly dashboard in Power BI that displays critical KPIs such as Year-to-Date (YTD) and Month-to-Date (MTD) sales, year-over-year (YOY) growth, and average price analysis. The dashboard also provides a deep dive into sales distribution by car body style, color, and dealer region, enhancing the ability to analyze sales metrics from multiple angles.

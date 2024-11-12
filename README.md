@@ -29,11 +29,7 @@ The data model for the Car Sales Dashboard integrates several tables to enable v
 
 - ```Date```: Contains all possible sale dates, enabling time-based analysis.
 -```Year```, ```Month```, ```Week```: Fields to support YTD, MTD, and YOY analysis.
-3. **Dealer Table**
 
-- ```Dealer_ID```: Unique identifier for each dealer.
-- ```Region```: Region where each dealer operates.
-- ```Company```: The associated company for each dealer location.
 These tables support KPIs, sales trend analysis, and detailed filtering across time periods, body styles, colors, and regions.
 
 ### Dashboard Features

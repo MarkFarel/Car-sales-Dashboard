@@ -64,15 +64,33 @@ The Car Sales Dashboard addresses essential business questions:
 - How are the **average prices** of cars trending over time?
   Which **car models**, **body styles**, and **colors** drive the most revenue?
 - How do **dealer regions** compare in terms of total sales and units sold?
-Which company is contributing the most to sales performance, and what are the growth trends?
-What insights can be drawn from weekly sales trends?
+- Which company is contributing the most to sales performance, and what are the growth trends?
+- What insights can be drawn from weekly sales trends?
 
 ### Key Insights and Findings
-#### Sales Performance Highlights**
+#### Sales Performance Highlights
+1.	**YOY Sales Growth**
+- 2023 YTD Sales: $371.2M
+- 2022 YTD Sales: $300.3M
+- YOY Growth: 23.59%
 
+Insight: The dealership achieved an 23.59% increase in total YTD sales from 2022 to 2023. This growth rate indicates positive performance and suggests the dealership's sales strategies are contributing to increased revenue year-over-year.
+
+2.  **Weekly Sales Trends**
+-	Peak Sales Week: $14.9M in the 36th week (early September)
+-	Low Sales Week: $2.29M in the 1st week (early January)
+
+ **Interpretation**
+The weekly sales trends indicate a significant peak in early September, with the 36th week recording a $14.9M sales high, driven by seasonal demand. This fall uptick aligns with heightened consumer activity and showcases the importance of aligning promotions and inventory to meet the increased demand during this period. Conversely, the lower performance observed in early January suggests a post-holiday decline, typical in many industries.
 #### Average Price Analysis
+- Pricing Trends: The average sale price per car has decreased by 0.79% compared to the previous year (2022), suggesting possible shifts in demand toward more affordable models or increased competition.
 
-#### Regional Performance
+- Actionable Insight: The slight decrease in average price indicates potential market pressure or a shift in consumer preferences. Monitoring customer preferences and adjusting pricing strategies or promotions for budget-friendly models could help maintain sales volume while protecting margins.
+
+
+#### Regional Performance:
+- Top Regions by Sales: Austin and Janesville regions lead in total sales, with Austin accounting for the highest revenue share and also selling the most cars.
+
 
 ### Conclusion
 The **Car Sales Dashboard** is an essential tool for understanding car sales performance across different dimensions. It provides critical insights into sales metrics, average price trends, and regional performance. By leveraging this dashboard, stakeholders can make data-driven decisions, spot trends, and optimize sales strategies.
